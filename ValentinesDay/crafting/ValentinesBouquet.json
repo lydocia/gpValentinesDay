@@ -1,0 +1,8 @@
+{
+    "id" : "lydociaValentinesBouquet",
+    "craftedFrom" : "pinkleaf : 3, bushwhiteflowers : 2, paper : 1",
+    "craftingMachine" : "workbench_flower",
+    "craftingCommand" : "Craft",
+    "craftingRequires" : "",
+    "base" : false
+}

@@ -1,0 +1,9 @@
+{
+    "itemtype" : "bouquet",
+    "id" : "lydociaValentinesBouquet",
+    "name" : "Valentines' Bouquet",
+    "desc" : "A fresh bouquet made from the prettiest flowers to give to your loved one!",
+    "icon" : "lydociaValentinesBouquet",
+    "sell" : 480,
+    "stacksTo" : 10,
+}
